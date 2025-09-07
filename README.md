@@ -3,6 +3,7 @@ In this we generate images with a simple prompt
 <img width="1024" height="1024" alt="spidyyy" src="https://github.com/user-attachments/assets/ae30cf62-ebcf-454f-a860-8dda9c7fa242" />
 
 
+<img width="1024" height="1024" alt="pizza" src="https://github.com/user-attachments/assets/cf631d64-bff7-4e02-9940-b751655eae05" />
 
 <img width="1024" height="1024" alt="spidy" src="https://github.com/user-attachments/assets/f8d0e520-a564-4379-a6f5-e7e882a5bfdf" />
 <img width="1024" height="1024" alt="spidy2" src="https://github.com/user-attachments/assets/5fa0951c-99d1-4f31-b5d5-34fbe92fdfd9" />
